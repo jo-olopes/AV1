@@ -1,0 +1,1 @@
+{"version":3,"file":"tipoAeronave.js","sourceRoot":"","sources":["../../../src/Classes/Aeronaves/tipoAeronave.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,YAAY;IAI7B,YAAY,IAAY;QACpB,IAAI,KAAK,CAAC,CAAC,CAAC,CAAC,IAAI,CAAC,IAAI,GAAG,WAAW,CAAC,CAAC,CAAC,IAAI,CAAC,IAAI,GAAG,SAAS,CAAC;QAC7D,IAAI,CAAC,GAAG,GAAG,IAAI,CAAC;IACpB,CAAC;CACJ"}

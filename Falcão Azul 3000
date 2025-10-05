@@ -1,0 +1,41 @@
+
+=============== Aeronave: Código 1 ===============
+
+Modelo: Falcão Azul 3000
+Tipo: Militar
+Capacidade de pessoas: 180
+Alcance Máximo: 35km
+
+---------------------- Peças Utilizadas -----------------------
+
+=> Peça Trem de pouso
+   Tipo: Importada
+   Fornecedor: Fornecido pela AeroParts
+   Status: Em Transporte
+        
+---------------------- Etapas de Produção ---------------------
+
+======> Etapa Inspeção de cabine
+        Prazo: 25
+        Status: Pendente
+        Funcionários responsáveis:
+
+==========> Funcionário Lucas Almeida
+            Telefone: (11) 98877-6655
+            Endereço: Av. das Palmeiras, 120
+            Usuário: lucas.almeida
+            Permissão: Operador
+        
+==========> Funcionário Mariana Costa
+            Telefone: (21) 97766-5544
+            Endereço: Rua do Horizonte, 45
+            Usuário: mariana.costa
+            Permissão: Engenheiro
+        
+---------------------- Testes Realizados ----------------------
+
+===> Teste Hidráulico
+     Resultado: Aprovado
+        
+===============================================================
+        

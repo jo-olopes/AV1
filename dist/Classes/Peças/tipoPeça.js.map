@@ -1,0 +1,1 @@
+{"version":3,"file":"tipoPeça.js","sourceRoot":"","sources":["../../../src/Classes/Peças/tipoPeça.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,QAAQ;IAIzB,YAAY,IAAY;QACpB,IAAI,KAAK,CAAC,CAAC,CAAC,CAAC,IAAI,CAAC,IAAI,GAAG,UAAU,CAAC,CAAC,CAAC,IAAI,CAAC,IAAI,GAAG,WAAW,CAAC;QAC9D,IAAI,CAAC,GAAG,GAAG,IAAI,CAAC;IACpB,CAAC;CACJ"}
